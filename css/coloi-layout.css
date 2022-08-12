@@ -1,0 +1,94 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.wrapper{
+
+}
+
+.nav{
+
+}
+
+.nav-top{
+    background-color: rgb(9, 111, 9);
+    background-size: cover;
+    width: 100%;
+    height: 3em;
+   
+}
+
+.nav-top .header{
+    /* border: 1px solid red; */
+    float: left;
+    padding: 0.5em;
+    padding-left: 2em;
+    color: #fff;
+}
+
+.header img{
+    background-size: cover;
+    width: 1em;
+    height: 1.1em;
+}
+
+.nav-top .section{
+    /* border: 1px solid red; */
+    float: right;
+    width: 50%;
+    text-align: right;
+    padding: 0.5em;
+}
+
+.section a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 2%;
+}
+
+.section img{
+    background-size: cover;
+    width: 1em;
+    height: 1em;
+}
+
+.nav-content{
+    /* border: 1px solid red; */
+    background-color: rgb(25, 156, 58);
+    background-size: cover;
+    width: 100%;
+    height: 10em;
+    text-align: center;
+    padding-top: 3em;
+}
+
+.nav-content h1{
+    color: #fff;
+}
+
+.nav-content [type="button"]{
+    background-color: rgba(114, 216, 236, 0.376);
+    color: #fff;
+    margin-top: 0.5em;
+    padding: 0.5em;
+}
+
+.meet-team{
+    border: 1px solid red;
+    text-align: center;
+    width: 60%;
+    margin-left: 15em;
+    margin-top: 3em;
+}
+
+.meet-team img{
+    background-size: cover;
+    width: 1em;
+    height: 1em;
+}
+
